@@ -5,8 +5,11 @@
 ## Learn more about me here
 - https://code-witch.github.io/
 
-<!-- - 👋 Hi, I’m @code-witch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+### Skills
+![](https://skillicons.dev/icons?i=nodejs,express,pug,vue,mongodb,mysql&perline=3)
+
+### Languages
+![](https://skillicons.dev/icons?i=python,js,lua,scss,ts,java,cs&perline=4)
+
+### Tools
+![](https://skillicons.dev/icons?i=vscode,git,raspberrypi,arch,apple,debian,windows&perline=4)
